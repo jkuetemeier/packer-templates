@@ -54,3 +54,11 @@ Choose the template you want to build an go into that directory, than just execu
     vagrant up
 
     vagrant ssh
+
+## LICENSE
+
+Apache License
+Version 2.0, January 2004
+http://www.apache.org/licenses/
+
+See LICENSE file for detailted informations.

@@ -20,7 +20,7 @@
       "type": "vagrant",
       "override": {
         "virtualbox": {
-          "output": "knet-centos-7-2-x64-virtualbox.box"
+          "output": "kuetemeier-net-centos-7-2-x64-minimal-vagrant-virtualbox.box"
         }
       }
     }

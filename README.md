@@ -1,3 +1,7 @@
+## Archived
+
+This code is just for your reference. Enjoy :-)
+
 # Packer Templates for building images
 
 This templates are actually used to build [CentOS](https://www.centos.org/) [VAGRANT](https://www.vagrantup.com/) images. More to come soon.
